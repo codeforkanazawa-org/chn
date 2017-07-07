@@ -17,3 +17,8 @@
 - [Wiki](https://github.com/codeforkanazawa-org/chn/wiki)
   - 成果物含め、このwikiを活用するつもりです
 - [CfKイベントタスク](https://docs.google.com/spreadsheets/d/1JLp5c-kQ65VV0KzoUAhve39UBn-lIMGj0rcXGoY75ZE/edit?usp=sharing)
+
+# 当日用資料
+
+- [オープニングキーノート](https://github.com/codeforkanazawa-org/chn/blob/master/CHN_Keynote.pdf)
+- [運営について](https://www.icloud.com/keynote/0Wia6XgRnpz9AL-hmgH9UJ6sA)
