@@ -21,4 +21,4 @@
 # 当日用資料
 
 - [オープニングキーノート](https://github.com/codeforkanazawa-org/chn/blob/master/CHN_Keynote.pdf)
-- [運営について](https://www.icloud.com/keynote/0Wia6XgRnpz9AL-hmgH9UJ6sA)
+- [CHN運営毎回共通キーノート](https://www.icloud.com/keynote/0Wia6XgRnpz9AL-hmgH9UJ6sA)
