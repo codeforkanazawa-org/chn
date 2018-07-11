@@ -22,4 +22,3 @@
 
 - [オープニングキーノート](https://github.com/codeforkanazawa-org/chn/blob/master/CHN_Keynote.pdf)
 - [CHN運営毎回共通キーノート](https://www.icloud.com/keynote/05M5vs5DuUP-qU4MX8W1T1ZaQ)
-hmgH9UJ6sA
